@@ -9,6 +9,9 @@
 - **Stages:** The game can load different stages (currently only "Stage1").
 - **Input Handling:** Custom input manager for handling player actions like movement and jumping.
 
+https://github.com/user-attachments/assets/b7b23ea0-4462-4258-b321-4cf54c41b965
+
+
 # Project Structure
 
 ## GameManager.cs
